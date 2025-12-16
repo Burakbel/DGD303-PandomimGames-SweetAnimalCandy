@@ -103,7 +103,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 565aa3b09f298a245b521686d47e6c1d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxHealth: 20
+  maxHealth: 1000
 --- !u!114 &7068338521832079495
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -116,11 +116,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4e286d5c2b1eb664faccebbebcdd64dc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 2
-  followDistance: 1.5
-  attackRange: 1
+  moveSpeed: -2
+  followDistance: -1.5
+  attackRange: -1
   attackCooldown: 1
-  damage: 5
+  damage: 100
   slowDownFactor: 0.4
   pushBackStrength: 0.5
   allyMask:
@@ -144,7 +144,7 @@ Rigidbody2D:
   m_Mass: 1
   m_LinearDamping: 0
   m_AngularDamping: 0.05
-  m_GravityScale: 1
+  m_GravityScale: 0
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
