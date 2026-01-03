@@ -105,6 +105,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   maxHealth: 20
+  healthFill: {fileID: 0}
 --- !u!114 &571201833341630629
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -118,6 +119,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   maxHealth: 20
+  healthFill: {fileID: 0}
 --- !u!114 &9073072406085206382
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -134,6 +136,7 @@ MonoBehaviour:
   followDistance: 1.5
   attackRange: 1
   attackCooldown: 1
+  hitVFX: {fileID: 7819895688259264346, guid: d36b87c72621a2c49bee46eff2f6e9b4, type: 3}
   damage: 5
   slowDownFactor: 0.4
   pushBackStrength: 0.5
