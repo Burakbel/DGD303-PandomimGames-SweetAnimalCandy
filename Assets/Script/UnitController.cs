@@ -84,6 +84,7 @@ public class UnitController : MonoBehaviour
 
         Vector3 hitPoint = (transform.position + enemy.position) / 2f;
         Instantiate(hitVFX, hitPoint, Quaternion.identity);
+        Destroy(hitVFX, 3f );
     }
 
     void SetWalking(bool state)

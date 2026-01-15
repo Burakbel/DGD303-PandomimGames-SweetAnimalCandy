@@ -7,7 +7,7 @@ public class UnitHealth : MonoBehaviour
     private int health;
 
     [Header("UI")]
-    public Image healthFill; // yeþil bar
+    public Image healthFill; 
 
     void Start()
     {

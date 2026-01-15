@@ -1,2 +1,26 @@
 fileFormatVersion: 2
 guid: 959ebe73abd68a64b9824ffbca025a5d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - spawnPoint: {instanceID: 0}
+  - enemyA_T1: {instanceID: 0}
+  - enemyA_T2: {instanceID: 0}
+  - enemyA_T3: {instanceID: 0}
+  - enemyB_T1: {instanceID: 0}
+  - enemyB_T2: {instanceID: 0}
+  - enemyB_T3: {instanceID: 0}
+  - buttonAIcon: {instanceID: 0}
+  - buttonBIcon: {instanceID: 0}
+  - iconA_T1: {fileID: 21300000, guid: 97ca6f8bedc562646b325886c7da72a5, type: 3}
+  - iconA_T2: {instanceID: 0}
+  - iconA_T3: {instanceID: 0}
+  - iconB_T1: {instanceID: 0}
+  - iconB_T2: {instanceID: 0}
+  - iconB_T3: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

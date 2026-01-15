@@ -63,6 +63,6 @@ public class MoneyManager : MonoBehaviour
 
     private void UpdateMoneyUI()
     {
-        moneyText.text = currentMoney.ToString() + "$";
+        moneyText.text = currentMoney.ToString();
     }
 }

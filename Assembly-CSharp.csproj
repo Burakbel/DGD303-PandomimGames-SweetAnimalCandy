@@ -62,15 +62,30 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Script\CameraMovement.cs" />
+    <Compile Include="Assets\Script\Scriptable.cs" />
+    <Compile Include="Assets\Script\SuperCandyManager.cs" />
+    <Compile Include="Assets\Script\MAINMENU.cs" />
+    <Compile Include="Assets\Script\CheatMoneyButton.cs" />
+    <Compile Include="Assets\Matthew Guz\Hits Effects FREE\Scene Demo\Script\Prefab Manager.cs" />
     <Compile Include="Assets\Script\MoneyManager.cs" />
+    <Compile Include="Assets\Script\BaseTierManager.cs" />
+    <Compile Include="Assets\Script\Projectile.cs" />
+    <Compile Include="Assets\Script\SuperPowerButton.cs" />
+    <Compile Include="Assets\Script\Tower.cs" />
+    <Compile Include="Assets\Script\BuildTowerButton.cs" />
+    <Compile Include="Assets\Script\UIWarningManager.cs" />
     <Compile Include="Assets\Script\EnemySpawner.cs" />
     <Compile Include="Assets\Script\UnitHealth.cs" />
+    <Compile Include="Assets\Script\SuperCandy.cs" />
+    <Compile Include="Assets\Script\Cooldowns.cs" />
+    <Compile Include="Assets\Script\AITEST.cs" />
     <Compile Include="Assets\Script\UnitController.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile-2-Pass.shader" />
+    <None Include="Assets\Matthew Guz\Hits Effects FREE\Documentation\Readme IMPORTANT.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
@@ -579,6 +594,10 @@
     </Reference>
     <Reference Include="Unity.Android.Gradle">
       <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.38f1\Editor\Data\PlaybackEngines\AndroidPlayer\Unity.Android.Gradle.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.iOS.Extensions.Xcode">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.38f1\Editor\Data\PlaybackEngines\MacStandaloneSupport\UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="netstandard">

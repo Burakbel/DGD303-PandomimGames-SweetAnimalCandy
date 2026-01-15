@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: 5c400ae9e7dba5045b7177b08dc3a142
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3140120824871181583
+    second: Bunny (1)_0
+  - first:
+      213: -315919598681977609
+    second: Bunny (1)_1
+  - first:
+      213: -7507288956379170096
+    second: Bunny (1)_2
+  - first:
+      213: 4717735967396062351
+    second: Bunny (1)_3
+  - first:
+      213: 5603102687983872107
+    second: Bunny (1)_4
+  - first:
+      213: 249847687472318575
+    second: Bunny (1)_5
+  - first:
+      213: -3982879390924457153
+    second: Bunny (1)_6
+  - first:
+      213: 3653732053080398715
+    second: Bunny (1)_7
+  - first:
+      213: 835027125350490613
+    second: Bunny (1)_8
+  - first:
+      213: 4473830607389739612
+    second: Bunny (1)_9
+  - first:
+      213: 1934730434759873006
+    second: Bunny (1)_10
+  - first:
+      213: -4461229636584614347
+    second: Bunny (1)_11
+  - first:
+      213: 1522527298295886919
+    second: Bunny (1)_12
+  - first:
+      213: -157829525973449449
+    second: Bunny (1)_13
+  - first:
+      213: 6050403756229551927
+    second: Bunny (1)_14
+  - first:
+      213: 3828621237257888367
+    second: Bunny (1)_15
+  - first:
+      213: -7242929482304301212
+    second: Bunny (1)_16
+  - first:
+      213: 1464609417243744542
+    second: Bunny (1)_17
+  - first:
+      213: -9138093356741614007
+    second: Bunny (1)_18
+  - first:
+      213: -4227067607173073971
+    second: Bunny (1)_19
+  - first:
+      213: 6784184887364637236
+    second: Bunny (1)_20
+  - first:
+      213: 5486043310709273265
+    second: Bunny (1)_21
+  - first:
+      213: 9055903058146419655
+    second: Bunny (1)_22
+  - first:
+      213: -3252904708254178148
+    second: Bunny (1)_23
+  - first:
+      213: -39768380673629186
+    second: Bunny (1)_24
+  - first:
+      213: -7987481780074319500
+    second: Bunny (1)_25
+  - first:
+      213: -2879975683282024101
+    second: Bunny (1)_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bunny (1)_0
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 723
+        height: 937
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f22fb13fbc0c64d0800000000000000
+      internalID: -3140120824871181583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny (1)_1
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 858
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc0afe7cc0ad9bf0800000000000000
+      internalID: -315919598681977609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny (1)_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 382
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da7ec03870c0d790800000000000000
+      internalID: -7507288956379170096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny (1)_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 368
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84e9b0edd3c87140800000000000000
+      internalID: 4717735967396062351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny (1)_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 359
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68a05d453832cd40800000000000000
+      internalID: 5603102687983872107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny (1)_5
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 345
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f688db3e523a77300800000000000000
+      internalID: 249847687472318575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny (1)_6
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 336
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b39b0db48f9b8c0800000000000000
+      internalID: -3982879390924457153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny (1)_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 323
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7bd058a1f9a4b230800000000000000
+      internalID: 3653732053080398715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny (1)_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 311
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1e4501fbc969b00800000000000000
+      internalID: 835027125350490613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny (1)_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 286
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a4cbaeb3d361e30800000000000000
+      internalID: 4473830607389739612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny (1)_10
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 264
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1dffb641b89da10800000000000000
+      internalID: 1934730434759873006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny (1)_11
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 241
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536dde938478612c0800000000000000
+      internalID: -4461229636584614347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny (1)_12
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 227
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744f2c7d28a112510800000000000000
+      internalID: 1522527298295886919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny (1)_13
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 207
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715c841e1e64fcdf0800000000000000
+      internalID: -157829525973449449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny (1)_14
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 193
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73760cde82a57f350800000000000000
+      internalID: 6050403756229551927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny (1)_15
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 189
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62e54afabef12530800000000000000
+      internalID: 3828621237257888367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny (1)_16
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 193
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4675c02b202fb7b90800000000000000
+      internalID: -7242929482304301212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny (1)_17
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 180
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1951815186535410800000000000000
+      internalID: 1464609417243744542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny (1)_18
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 177
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9462f0bf188fe2180800000000000000
+      internalID: -9138093356741614007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny (1)_19
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 182
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc373e048607655c0800000000000000
+      internalID: -4227067607173073971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny (1)_20
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 171
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43251fdf534462e50800000000000000
+      internalID: 6784184887364637236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny (1)_21
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 175
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2fb352357522c40800000000000000
+      internalID: 5486043310709273265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny (1)_22
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 132
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3e035e9d70dad70800000000000000
+      internalID: 9055903058146419655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny (1)_23
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 107
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c946058076c5bd2d0800000000000000
+      internalID: -3252904708254178148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny (1)_24
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 57
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3e7a45ed6b27ff0800000000000000
+      internalID: -39768380673629186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny (1)_25
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 39
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471f3c8f3a3c62190800000000000000
+      internalID: -7987481780074319500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny (1)_26
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 39
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b594634ff554808d0800000000000000
+      internalID: -2879975683282024101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bunny (1)_0: -3140120824871181583
+      Bunny (1)_1: -315919598681977609
+      Bunny (1)_10: 1934730434759873006
+      Bunny (1)_11: -4461229636584614347
+      Bunny (1)_12: 1522527298295886919
+      Bunny (1)_13: -157829525973449449
+      Bunny (1)_14: 6050403756229551927
+      Bunny (1)_15: 3828621237257888367
+      Bunny (1)_16: -7242929482304301212
+      Bunny (1)_17: 1464609417243744542
+      Bunny (1)_18: -9138093356741614007
+      Bunny (1)_19: -4227067607173073971
+      Bunny (1)_2: -7507288956379170096
+      Bunny (1)_20: 6784184887364637236
+      Bunny (1)_21: 5486043310709273265
+      Bunny (1)_22: 9055903058146419655
+      Bunny (1)_23: -3252904708254178148
+      Bunny (1)_24: -39768380673629186
+      Bunny (1)_25: -7987481780074319500
+      Bunny (1)_26: -2879975683282024101
+      Bunny (1)_3: 4717735967396062351
+      Bunny (1)_4: 5603102687983872107
+      Bunny (1)_5: 249847687472318575
+      Bunny (1)_6: -3982879390924457153
+      Bunny (1)_7: 3653732053080398715
+      Bunny (1)_8: 835027125350490613
+      Bunny (1)_9: 4473830607389739612
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

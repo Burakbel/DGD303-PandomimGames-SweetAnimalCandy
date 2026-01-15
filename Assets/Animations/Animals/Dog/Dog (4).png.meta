@@ -1,0 +1,1118 @@
+fileFormatVersion: 2
+guid: c869b178581df654dbb1c6287966fe3c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2394122126720060099
+    second: Dog (4)_0
+  - first:
+      213: -5770336046780118939
+    second: Dog (4)_1
+  - first:
+      213: 3321961899492942490
+    second: Dog (4)_2
+  - first:
+      213: 2225494114742976125
+    second: Dog (4)_3
+  - first:
+      213: -3229694103171663318
+    second: Dog (4)_4
+  - first:
+      213: 1259234521650405654
+    second: Dog (4)_5
+  - first:
+      213: 537897024682068253
+    second: Dog (4)_6
+  - first:
+      213: -8494325850305784708
+    second: Dog (4)_7
+  - first:
+      213: 2433883811333680986
+    second: Dog (4)_8
+  - first:
+      213: -6834990730610457765
+    second: Dog (4)_9
+  - first:
+      213: 8815339699461884625
+    second: Dog (4)_10
+  - first:
+      213: -7252551995868068925
+    second: Dog (4)_11
+  - first:
+      213: 42002547487344053
+    second: Dog (4)_12
+  - first:
+      213: -2160516424707825128
+    second: Dog (4)_13
+  - first:
+      213: -9093785434147826128
+    second: Dog (4)_14
+  - first:
+      213: 1712548513650075641
+    second: Dog (4)_15
+  - first:
+      213: -979797185630422609
+    second: Dog (4)_16
+  - first:
+      213: -7387388696676397725
+    second: Dog (4)_17
+  - first:
+      213: 4254141515550186002
+    second: Dog (4)_18
+  - first:
+      213: -8408914905401411670
+    second: Dog (4)_19
+  - first:
+      213: -4787395041175912018
+    second: Dog (4)_20
+  - first:
+      213: 2896340232021552749
+    second: Dog (4)_21
+  - first:
+      213: 2542525144931257126
+    second: Dog (4)_22
+  - first:
+      213: -4250784439528578915
+    second: Dog (4)_23
+  - first:
+      213: 4066774615450754200
+    second: Dog (4)_24
+  - first:
+      213: 1552915978214662348
+    second: Dog (4)_25
+  - first:
+      213: 3745271596361960168
+    second: Dog (4)_26
+  - first:
+      213: 5562850268812572545
+    second: Dog (4)_27
+  - first:
+      213: -2988643370930354736
+    second: Dog (4)_28
+  - first:
+      213: 5352843096024782896
+    second: Dog (4)_29
+  - first:
+      213: -1738043088240680695
+    second: Dog (4)_30
+  - first:
+      213: 399179552863784589
+    second: Dog (4)_31
+  - first:
+      213: -4786642498592408702
+    second: Dog (4)_32
+  - first:
+      213: -5578627824619274448
+    second: Dog (4)_33
+  - first:
+      213: -8933724856833821069
+    second: Dog (4)_34
+  - first:
+      213: -5560465950320233201
+    second: Dog (4)_35
+  - first:
+      213: -1097725011515847972
+    second: Dog (4)_36
+  - first:
+      213: -9201782546285681484
+    second: Dog (4)_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dog (4)_0
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 43
+        width: 806
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35b2ff3c9e56ced0800000000000000
+      internalID: -2394122126720060099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog (4)_1
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 932
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5680a0120f5abefa0800000000000000
+      internalID: -5770336046780118939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog (4)_2
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 937
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92a8a04fbaf91e20800000000000000
+      internalID: 3321961899492942490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog (4)_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 900
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e3afe2b1b82ee10800000000000000
+      internalID: 2225494114742976125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog (4)_4
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 887
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a77472352dd23d0800000000000000
+      internalID: -3229694103171663318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog (4)_5
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 874
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611a1ef2023b97110800000000000000
+      internalID: 1259234521650405654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog (4)_6
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 851
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d190ae97e7ef67700800000000000000
+      internalID: 537897024682068253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog (4)_7
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 861
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c741b1ed4a71e1a80800000000000000
+      internalID: -8494325850305784708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog (4)_8
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 838
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f2e1f5e64e6c120800000000000000
+      internalID: 2433883811333680986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog (4)_9
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 816
+        width: 51
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5340e2d42c3521a0800000000000000
+      internalID: -6834990730610457765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog (4)_10
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 784
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da03d040c0665a70800000000000000
+      internalID: 8815339699461884625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog (4)_11
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 661
+        width: 94
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3cb3ba262c95b90800000000000000
+      internalID: -7252551995868068925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog (4)_12
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 742
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b505aa2819359000800000000000000
+      internalID: 42002547487344053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog (4)_13
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 703
+        width: 7
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812a4e532cd4402e0800000000000000
+      internalID: -2160516424707825128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog (4)_14
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 684
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0365ffd14526cc180800000000000000
+      internalID: -9093785434147826128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog (4)_15
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 661
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f76cb8bcc134c710800000000000000
+      internalID: 1712548513650075641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog (4)_16
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 619
+        width: 10
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9329e96af0762f0800000000000000
+      internalID: -979797185630422609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog (4)_17
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 725
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d0ed4de19ba7990800000000000000
+      internalID: -7387388696676397725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog (4)_18
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 680
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a5c924b2fb90b30800000000000000
+      internalID: 4254141515550186002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog (4)_19
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 561
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7bf0522788d4b80800000000000000
+      internalID: -8408914905401411670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog (4)_20
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 581
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea14e332391cf8db0800000000000000
+      internalID: -4787395041175912018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog (4)_21
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 561
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e2156781ed13820800000000000000
+      internalID: 2896340232021552749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog (4)_22
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 546
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b4020062dd84320800000000000000
+      internalID: 2542525144931257126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog (4)_23
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 513
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d902429e21e2205c0800000000000000
+      internalID: -4250784439528578915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog (4)_24
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 490
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c948f47f5107830800000000000000
+      internalID: 4066774615450754200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog (4)_25
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 481
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0638fbad01d8510800000000000000
+      internalID: 1552915978214662348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog (4)_26
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 448
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eac3807ca0e9f330800000000000000
+      internalID: 3745271596361960168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog (4)_27
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 427
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1877243a8d6333d40800000000000000
+      internalID: 5562850268812572545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog (4)_28
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 407
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5ce5b40b43686d0800000000000000
+      internalID: -2988643370930354736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog (4)_29
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 394
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03895fc6f6e194a40800000000000000
+      internalID: 5352843096024782896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog (4)_30
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 72
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9016711150b31e7e0800000000000000
+      internalID: -1738043088240680695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog (4)_31
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 72
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e8b0a30bb2a8500800000000000000
+      internalID: 399179552863784589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog (4)_32
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 53
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b7c9c120e629db0800000000000000
+      internalID: -4786642498592408702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog (4)_33
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 33
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f3573ec8bb492b0800000000000000
+      internalID: -5578627824619274448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog (4)_34
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 36
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376b75b5398050480800000000000000
+      internalID: -8933724856833821069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog (4)_35
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 17
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05f185cda145d2b0800000000000000
+      internalID: -5560465950320233201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog (4)_36
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 0
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda49830be814c0f0800000000000000
+      internalID: -1097725011515847972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog (4)_37
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4a04cf683bc4080800000000000000
+      internalID: -9201782546285681484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dog (4)_0: -2394122126720060099
+      Dog (4)_1: -5770336046780118939
+      Dog (4)_10: 8815339699461884625
+      Dog (4)_11: -7252551995868068925
+      Dog (4)_12: 42002547487344053
+      Dog (4)_13: -2160516424707825128
+      Dog (4)_14: -9093785434147826128
+      Dog (4)_15: 1712548513650075641
+      Dog (4)_16: -979797185630422609
+      Dog (4)_17: -7387388696676397725
+      Dog (4)_18: 4254141515550186002
+      Dog (4)_19: -8408914905401411670
+      Dog (4)_2: 3321961899492942490
+      Dog (4)_20: -4787395041175912018
+      Dog (4)_21: 2896340232021552749
+      Dog (4)_22: 2542525144931257126
+      Dog (4)_23: -4250784439528578915
+      Dog (4)_24: 4066774615450754200
+      Dog (4)_25: 1552915978214662348
+      Dog (4)_26: 3745271596361960168
+      Dog (4)_27: 5562850268812572545
+      Dog (4)_28: -2988643370930354736
+      Dog (4)_29: 5352843096024782896
+      Dog (4)_3: 2225494114742976125
+      Dog (4)_30: -1738043088240680695
+      Dog (4)_31: 399179552863784589
+      Dog (4)_32: -4786642498592408702
+      Dog (4)_33: -5578627824619274448
+      Dog (4)_34: -8933724856833821069
+      Dog (4)_35: -5560465950320233201
+      Dog (4)_36: -1097725011515847972
+      Dog (4)_37: -9201782546285681484
+      Dog (4)_4: -3229694103171663318
+      Dog (4)_5: 1259234521650405654
+      Dog (4)_6: 537897024682068253
+      Dog (4)_7: -8494325850305784708
+      Dog (4)_8: 2433883811333680986
+      Dog (4)_9: -6834990730610457765
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

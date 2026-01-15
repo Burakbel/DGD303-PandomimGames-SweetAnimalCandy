@@ -3,31 +3,76 @@
   "WorkspaceRootPath": "A:\\SweetAnimalCandy\\DGD303-PandomimGames-SweetAnimalCandy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|a:\\sweetanimalcandy\\dgd303-pandomimgames-sweetanimalcandy\\assets\\script\\backgroundfollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\script\\backgroundfollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6BDA6EC-990C-9EEB-9BDD-8DD5548D3C6F}|Assembly-CSharp.csproj|A:\\SweetAnimalCandy\\DGD303-PandomimGames-SweetAnimalCandy\\assets\\script\\cameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6BDA6EC-990C-9EEB-9BDD-8DD5548D3C6F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\cameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6BDA6EC-990C-9EEB-9BDD-8DD5548D3C6F}|Assembly-CSharp.csproj|A:\\SweetAnimalCandy\\DGD303-PandomimGames-SweetAnimalCandy\\assets\\script\\unitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6BDA6EC-990C-9EEB-9BDD-8DD5548D3C6F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\unitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B6BDA6EC-990C-9EEB-9BDD-8DD5548D3C6F}|Assembly-CSharp.csproj|A:\\SweetAnimalCandy\\DGD303-PandomimGames-SweetAnimalCandy\\assets\\script\\moneymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6BDA6EC-990C-9EEB-9BDD-8DD5548D3C6F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\moneymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B6BDA6EC-990C-9EEB-9BDD-8DD5548D3C6F}|Assembly-CSharp.csproj|A:\\SweetAnimalCandy\\DGD303-PandomimGames-SweetAnimalCandy\\assets\\script\\unithealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6BDA6EC-990C-9EEB-9BDD-8DD5548D3C6F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\unithealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B6BDA6EC-990C-9EEB-9BDD-8DD5548D3C6F}|Assembly-CSharp.csproj|A:\\SweetAnimalCandy\\DGD303-PandomimGames-SweetAnimalCandy\\assets\\script\\unitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6BDA6EC-990C-9EEB-9BDD-8DD5548D3C6F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\unitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BDA6EC-990C-9EEB-9BDD-8DD5548D3C6F}|Assembly-CSharp.csproj|A:\\SweetAnimalCandy\\DGD303-PandomimGames-SweetAnimalCandy\\assets\\script\\uiwarningmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6BDA6EC-990C-9EEB-9BDD-8DD5548D3C6F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\uiwarningmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BDA6EC-990C-9EEB-9BDD-8DD5548D3C6F}|Assembly-CSharp.csproj|A:\\SweetAnimalCandy\\DGD303-PandomimGames-SweetAnimalCandy\\assets\\script\\tower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6BDA6EC-990C-9EEB-9BDD-8DD5548D3C6F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\tower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BDA6EC-990C-9EEB-9BDD-8DD5548D3C6F}|Assembly-CSharp.csproj|A:\\SweetAnimalCandy\\DGD303-PandomimGames-SweetAnimalCandy\\assets\\script\\superpowerbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6BDA6EC-990C-9EEB-9BDD-8DD5548D3C6F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\superpowerbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BDA6EC-990C-9EEB-9BDD-8DD5548D3C6F}|Assembly-CSharp.csproj|A:\\SweetAnimalCandy\\DGD303-PandomimGames-SweetAnimalCandy\\assets\\script\\supercandymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6BDA6EC-990C-9EEB-9BDD-8DD5548D3C6F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\supercandymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BDA6EC-990C-9EEB-9BDD-8DD5548D3C6F}|Assembly-CSharp.csproj|A:\\SweetAnimalCandy\\DGD303-PandomimGames-SweetAnimalCandy\\assets\\script\\supercandy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6BDA6EC-990C-9EEB-9BDD-8DD5548D3C6F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\supercandy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BDA6EC-990C-9EEB-9BDD-8DD5548D3C6F}|Assembly-CSharp.csproj|A:\\SweetAnimalCandy\\DGD303-PandomimGames-SweetAnimalCandy\\assets\\script\\scriptable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6BDA6EC-990C-9EEB-9BDD-8DD5548D3C6F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\scriptable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BDA6EC-990C-9EEB-9BDD-8DD5548D3C6F}|Assembly-CSharp.csproj|A:\\SweetAnimalCandy\\DGD303-PandomimGames-SweetAnimalCandy\\assets\\script\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6BDA6EC-990C-9EEB-9BDD-8DD5548D3C6F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BDA6EC-990C-9EEB-9BDD-8DD5548D3C6F}|Assembly-CSharp.csproj|A:\\SweetAnimalCandy\\DGD303-PandomimGames-SweetAnimalCandy\\assets\\script\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6BDA6EC-990C-9EEB-9BDD-8DD5548D3C6F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B6BDA6EC-990C-9EEB-9BDD-8DD5548D3C6F}|Assembly-CSharp.csproj|A:\\SweetAnimalCandy\\DGD303-PandomimGames-SweetAnimalCandy\\assets\\script\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6BDA6EC-990C-9EEB-9BDD-8DD5548D3C6F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Burak\\OneDrive\\Masa\u00FCst\u00FC\\UnitControllerTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B6BDA6EC-990C-9EEB-9BDD-8DD5548D3C6F}|Assembly-CSharp.csproj|A:\\SweetAnimalCandy\\DGD303-PandomimGames-SweetAnimalCandy\\assets\\script\\cooldowns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6BDA6EC-990C-9EEB-9BDD-8DD5548D3C6F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\cooldowns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6BDA6EC-990C-9EEB-9BDD-8DD5548D3C6F}|Assembly-CSharp.csproj|A:\\SweetAnimalCandy\\DGD303-PandomimGames-SweetAnimalCandy\\assets\\script\\moneymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6BDA6EC-990C-9EEB-9BDD-8DD5548D3C6F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\moneymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B6BDA6EC-990C-9EEB-9BDD-8DD5548D3C6F}|Assembly-CSharp.csproj|A:\\SweetAnimalCandy\\DGD303-PandomimGames-SweetAnimalCandy\\assets\\script\\cheatmoneybutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6BDA6EC-990C-9EEB-9BDD-8DD5548D3C6F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\cheatmoneybutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BDA6EC-990C-9EEB-9BDD-8DD5548D3C6F}|Assembly-CSharp.csproj|a:\\sweetanimalcandy\\dgd303-pandomimgames-sweetanimalcandy\\assets\\script\\cameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6BDA6EC-990C-9EEB-9BDD-8DD5548D3C6F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\cameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BDA6EC-990C-9EEB-9BDD-8DD5548D3C6F}|Assembly-CSharp.csproj|A:\\SweetAnimalCandy\\DGD303-PandomimGames-SweetAnimalCandy\\assets\\script\\buildtowerbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6BDA6EC-990C-9EEB-9BDD-8DD5548D3C6F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\buildtowerbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BDA6EC-990C-9EEB-9BDD-8DD5548D3C6F}|Assembly-CSharp.csproj|A:\\SweetAnimalCandy\\DGD303-PandomimGames-SweetAnimalCandy\\assets\\script\\basetiermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6BDA6EC-990C-9EEB-9BDD-8DD5548D3C6F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\basetiermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BDA6EC-990C-9EEB-9BDD-8DD5548D3C6F}|Assembly-CSharp.csproj|A:\\SweetAnimalCandy\\DGD303-PandomimGames-SweetAnimalCandy\\assets\\script\\aitest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6BDA6EC-990C-9EEB-9BDD-8DD5548D3C6F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\aitest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,20 +82,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 17,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "UnitHealth.cs",
               "DocumentMoniker": "A:\\SweetAnimalCandy\\DGD303-PandomimGames-SweetAnimalCandy\\Assets\\Script\\UnitHealth.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\UnitHealth.cs",
               "ToolTip": "A:\\SweetAnimalCandy\\DGD303-PandomimGames-SweetAnimalCandy\\Assets\\Script\\UnitHealth.cs",
               "RelativeToolTip": "Assets\\Script\\UnitHealth.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-01T23:54:39.385Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -58,15 +104,171 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BackgroundFollow.cs",
-              "DocumentMoniker": "A:\\SweetAnimalCandy\\DGD303-PandomimGames-SweetAnimalCandy\\Assets\\Script\\BackgroundFollow.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\BackgroundFollow.cs",
-              "ToolTip": "A:\\SweetAnimalCandy\\DGD303-PandomimGames-SweetAnimalCandy\\Assets\\Script\\BackgroundFollow.cs",
-              "RelativeToolTip": "Assets\\Script\\BackgroundFollow.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
+              "DocumentIndex": 13,
+              "Title": "CheatMoneyButton.cs",
+              "DocumentMoniker": "A:\\SweetAnimalCandy\\DGD303-PandomimGames-SweetAnimalCandy\\Assets\\Script\\CheatMoneyButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CheatMoneyButton.cs",
+              "ToolTip": "A:\\SweetAnimalCandy\\DGD303-PandomimGames-SweetAnimalCandy\\Assets\\Script\\CheatMoneyButton.cs",
+              "RelativeToolTip": "Assets\\Script\\CheatMoneyButton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-03T16:50:15.308Z",
+              "WhenOpened": "2026-01-15T21:07:23.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UIWarningManager.cs",
+              "DocumentMoniker": "A:\\SweetAnimalCandy\\DGD303-PandomimGames-SweetAnimalCandy\\Assets\\Script\\UIWarningManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UIWarningManager.cs",
+              "ToolTip": "A:\\SweetAnimalCandy\\DGD303-PandomimGames-SweetAnimalCandy\\Assets\\Script\\UIWarningManager.cs",
+              "RelativeToolTip": "Assets\\Script\\UIWarningManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T20:08:15.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BaseTierManager.cs",
+              "DocumentMoniker": "A:\\SweetAnimalCandy\\DGD303-PandomimGames-SweetAnimalCandy\\Assets\\Script\\BaseTierManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\BaseTierManager.cs",
+              "ToolTip": "A:\\SweetAnimalCandy\\DGD303-PandomimGames-SweetAnimalCandy\\Assets\\Script\\BaseTierManager.cs",
+              "RelativeToolTip": "Assets\\Script\\BaseTierManager.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAuwCIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T11:31:25.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Cooldowns.cs",
+              "DocumentMoniker": "A:\\SweetAnimalCandy\\DGD303-PandomimGames-SweetAnimalCandy\\Assets\\Script\\Cooldowns.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Cooldowns.cs",
+              "ToolTip": "A:\\SweetAnimalCandy\\DGD303-PandomimGames-SweetAnimalCandy\\Assets\\Script\\Cooldowns.cs",
+              "RelativeToolTip": "Assets\\Script\\Cooldowns.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T12:56:58.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SuperCandy.cs",
+              "DocumentMoniker": "A:\\SweetAnimalCandy\\DGD303-PandomimGames-SweetAnimalCandy\\Assets\\Script\\SuperCandy.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SuperCandy.cs",
+              "ToolTip": "A:\\SweetAnimalCandy\\DGD303-PandomimGames-SweetAnimalCandy\\Assets\\Script\\SuperCandy.cs",
+              "RelativeToolTip": "Assets\\Script\\SuperCandy.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T12:32:20.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SuperCandyManager.cs",
+              "DocumentMoniker": "A:\\SweetAnimalCandy\\DGD303-PandomimGames-SweetAnimalCandy\\Assets\\Script\\SuperCandyManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SuperCandyManager.cs",
+              "ToolTip": "A:\\SweetAnimalCandy\\DGD303-PandomimGames-SweetAnimalCandy\\Assets\\Script\\SuperCandyManager.cs",
+              "RelativeToolTip": "Assets\\Script\\SuperCandyManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T12:31:08.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SuperPowerButton.cs",
+              "DocumentMoniker": "A:\\SweetAnimalCandy\\DGD303-PandomimGames-SweetAnimalCandy\\Assets\\Script\\SuperPowerButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SuperPowerButton.cs",
+              "ToolTip": "A:\\SweetAnimalCandy\\DGD303-PandomimGames-SweetAnimalCandy\\Assets\\Script\\SuperPowerButton.cs",
+              "RelativeToolTip": "Assets\\Script\\SuperPowerButton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T12:30:10.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Projectile.cs",
+              "DocumentMoniker": "A:\\SweetAnimalCandy\\DGD303-PandomimGames-SweetAnimalCandy\\Assets\\Script\\Projectile.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Projectile.cs",
+              "ToolTip": "A:\\SweetAnimalCandy\\DGD303-PandomimGames-SweetAnimalCandy\\Assets\\Script\\Projectile.cs",
+              "RelativeToolTip": "Assets\\Script\\Projectile.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T08:42:22.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tower.cs",
+              "DocumentMoniker": "A:\\SweetAnimalCandy\\DGD303-PandomimGames-SweetAnimalCandy\\Assets\\Script\\Tower.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Tower.cs",
+              "ToolTip": "A:\\SweetAnimalCandy\\DGD303-PandomimGames-SweetAnimalCandy\\Assets\\Script\\Tower.cs",
+              "RelativeToolTip": "Assets\\Script\\Tower.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T08:40:26.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BuildTowerButton.cs",
+              "DocumentMoniker": "A:\\SweetAnimalCandy\\DGD303-PandomimGames-SweetAnimalCandy\\Assets\\Script\\BuildTowerButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\BuildTowerButton.cs",
+              "ToolTip": "A:\\SweetAnimalCandy\\DGD303-PandomimGames-SweetAnimalCandy\\Assets\\Script\\BuildTowerButton.cs",
+              "RelativeToolTip": "Assets\\Script\\BuildTowerButton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T08:39:01.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MAINMENU.cs",
+              "DocumentMoniker": "A:\\SweetAnimalCandy\\DGD303-PandomimGames-SweetAnimalCandy\\Assets\\Script\\MAINMENU.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\MAINMENU.cs",
+              "ToolTip": "A:\\SweetAnimalCandy\\DGD303-PandomimGames-SweetAnimalCandy\\Assets\\Script\\MAINMENU.cs",
+              "RelativeToolTip": "Assets\\Script\\MAINMENU.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T18:04:22.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Scriptable.cs",
+              "DocumentMoniker": "A:\\SweetAnimalCandy\\DGD303-PandomimGames-SweetAnimalCandy\\Assets\\Script\\Scriptable.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Scriptable.cs",
+              "ToolTip": "A:\\SweetAnimalCandy\\DGD303-PandomimGames-SweetAnimalCandy\\Assets\\Script\\Scriptable.cs",
+              "RelativeToolTip": "Assets\\Script\\Scriptable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T18:14:30.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AITEST.cs",
+              "DocumentMoniker": "A:\\SweetAnimalCandy\\DGD303-PandomimGames-SweetAnimalCandy\\Assets\\Script\\AITEST.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\AITEST.cs",
+              "ToolTip": "A:\\SweetAnimalCandy\\DGD303-PandomimGames-SweetAnimalCandy\\Assets\\Script\\AITEST.cs",
+              "RelativeToolTip": "Assets\\Script\\AITEST.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAwwEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T18:11:27.755Z",
               "EditorCaption": ""
             },
             {
@@ -77,48 +279,40 @@
               "RelativeDocumentMoniker": "Assets\\Script\\UnitController.cs",
               "ToolTip": "A:\\SweetAnimalCandy\\DGD303-PandomimGames-SweetAnimalCandy\\Assets\\Script\\UnitController.cs",
               "RelativeToolTip": "Assets\\Script\\UnitController.cs",
-              "ViewState": "AQIAADQAAAAAAAAAAAAiwGcAAAAAAAAA",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAowFQAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T09:14:33.292Z"
+              "WhenOpened": "2026-01-02T09:14:33.292Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "EnemySpawner.cs",
               "DocumentMoniker": "A:\\SweetAnimalCandy\\DGD303-PandomimGames-SweetAnimalCandy\\Assets\\Script\\EnemySpawner.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\EnemySpawner.cs",
               "ToolTip": "A:\\SweetAnimalCandy\\DGD303-PandomimGames-SweetAnimalCandy\\Assets\\Script\\EnemySpawner.cs",
               "RelativeToolTip": "Assets\\Script\\EnemySpawner.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-14T22:51:37.931Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UnitControllerTest.cs",
-              "DocumentMoniker": "C:\\Users\\Burak\\OneDrive\\Masa\u00FCst\u00FC\\UnitControllerTest.cs",
-              "ToolTip": "C:\\Users\\Burak\\OneDrive\\Masa\u00FCst\u00FC\\UnitControllerTest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T23:53:59.746Z",
+              "WhenOpened": "2025-12-14T22:51:37.931Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "MoneyManager.cs",
               "DocumentMoniker": "A:\\SweetAnimalCandy\\DGD303-PandomimGames-SweetAnimalCandy\\Assets\\Script\\MoneyManager.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\MoneyManager.cs",
               "ToolTip": "A:\\SweetAnimalCandy\\DGD303-PandomimGames-SweetAnimalCandy\\Assets\\Script\\MoneyManager.cs",
               "RelativeToolTip": "Assets\\Script\\MoneyManager.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAA5wDQAAAAUAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowDwAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T23:40:21.969Z"
+              "WhenOpened": "2025-12-01T23:40:21.969Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 14,
               "Title": "CameraMovement.cs",
               "DocumentMoniker": "A:\\SweetAnimalCandy\\DGD303-PandomimGames-SweetAnimalCandy\\Assets\\Script\\CameraMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\CameraMovement.cs",
@@ -126,7 +320,8 @@
               "RelativeToolTip": "Assets\\Script\\CameraMovement.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T23:08:23.648Z"
+              "WhenOpened": "2025-12-01T23:08:23.648Z",
+              "EditorCaption": ""
             }
           ]
         }

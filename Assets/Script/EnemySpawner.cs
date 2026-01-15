@@ -1,81 +1,154 @@
 using UnityEngine;
+using UnityEngine.UI;
+using TMPro;
 
 public class EnemySpawner : MonoBehaviour
 {
     public Transform spawnPoint;
-    public Transform spawnPointTest;
-    public GameObject enemyA;
-    public int enemyA_Cost;
-    public GameObject enemyB;
-    public int enemyB_Cost;
-    public GameObject enemyC;
-    public int enemyC_Cost;
-    public GameObject enemyD;
-    public int enemyD_Cost;
 
-    public GameObject Tester;
+    [Header("Enemy A")]
+    public GameObject enemyA_T1;
+    public GameObject enemyA_T2;
+    public GameObject enemyA_T3;
+    public int costA_T1;
+    public int costA_T2;
+    public int costA_T3;
 
+    [Header("Enemy B")]
+    public GameObject enemyB_T1;
+    public GameObject enemyB_T2;
+    public GameObject enemyB_T3;
+    public int costB_T1;
+    public int costB_T2;
+    public int costB_T3;
+
+    [Header("Enemy C")]
+    public GameObject enemyC_T1;
+    public GameObject enemyC_T2;
+    public GameObject enemyC_T3;
+    public int costC_T1;
+    public int costC_T2;
+    public int costC_T3;
+
+    [Header("UI Icons")]
+    public Image buttonAIcon;
+    public Image buttonBIcon;
+    public Image buttonCIcon;
+    public Sprite iconA_T1;
+    public Sprite iconA_T2;
+    public Sprite iconA_T3;
+    public Sprite iconB_T1;
+    public Sprite iconB_T2;
+    public Sprite iconB_T3;
+    public Sprite iconC_T1;
+    public Sprite iconC_T2;
+    public Sprite iconC_T3;
+
+    [Header("UI Price Texts")]
+    public TextMeshProUGUI priceTextA;
+    public TextMeshProUGUI priceTextB;
+    public TextMeshProUGUI priceTextC;
+
+    public void Start()
+    {
+        RefreshIcons();
+        RefreshPrices();
+
+
+    }
     public void SpawnEnemyA()
     {
-        if (MoneyManager.Instance.SpendMoney(enemyA_Cost))
-        {
-            Instantiate(enemyA, spawnPoint.position, Quaternion.identity);
+        int tier = BaseTierManager.Instance.currentTier;
 
-        }
-        else 
-        {
-
-            Debug.Log("not enoughMoeny");
-
-        }
+        if (tier == 1)
+            TrySpawn(enemyA_T1, costA_T1);
+        else if (tier == 2)
+            TrySpawn(enemyA_T2, costA_T2);
+        else
+            TrySpawn(enemyA_T3, costA_T3);
     }
 
     public void SpawnEnemyB()
-    { 
-        if (MoneyManager.Instance.SpendMoney(enemyB_Cost))
-        {
-            Instantiate(enemyB, spawnPoint.position, Quaternion.identity);
-        }
-        else 
-        {
+    {
+        int tier = BaseTierManager.Instance.currentTier;
 
-            Debug.Log("not enoughMoeny");
-        
-        }    
+        if (tier == 1)
+            TrySpawn(enemyB_T1, costB_T1);
+        else if (tier == 2)
+            TrySpawn(enemyB_T2, costB_T2);
+        else
+            TrySpawn(enemyB_T3, costB_T3);
     }
 
     public void SpawnEnemyC()
     {
-        if (MoneyManager.Instance.SpendMoney(enemyC_Cost))
+        int tier = BaseTierManager.Instance.currentTier;
+
+        if (tier == 1)
+            TrySpawn(enemyC_T1, costC_T1);
+        else if (tier == 2)
+            TrySpawn(enemyC_T2, costC_T2);
+        else
+            TrySpawn(enemyC_T3, costC_T3);
+    }
+
+    void TrySpawn(GameObject prefab, int cost)
+    {
+        if (MoneyManager.Instance.SpendMoney(cost))
+            Instantiate(prefab, spawnPoint.position, Quaternion.identity);
+        else
+            UIWarningManager.Instance.Show("Not enough money");
+            Debug.Log("Not enough money");
+    }
+
+
+    public void RefreshIcons()
+    {
+        int tier = BaseTierManager.Instance.currentTier;
+
+        if (tier == 1)
         {
-            Instantiate(enemyC, spawnPoint.position, Quaternion.identity);
+            buttonAIcon.sprite = iconA_T1;
+            buttonBIcon.sprite = iconB_T1;
+            buttonCIcon.sprite = iconC_T1;
+        }
+        else if (tier == 2)
+        {
+            buttonAIcon.sprite = iconA_T2;
+            buttonBIcon.sprite = iconB_T2;
+            buttonCIcon.sprite = iconC_T2;
         }
         else
         {
-
-            Debug.Log("not enoughMoeny");
-
+            buttonAIcon.sprite = iconA_T3;
+            buttonBIcon.sprite = iconB_T3;
+            buttonCIcon.sprite = iconC_T3;
         }
     }
-
-    public void SpawnEnemyD()
+    public void RefreshPrices()
     {
-        if (MoneyManager.Instance.SpendMoney(enemyD_Cost))
+        int tier = BaseTierManager.Instance.currentTier;
+
+        if (tier == 1)
         {
-            Instantiate(enemyD, spawnPoint.position, Quaternion.identity);
+            priceTextA.text = costA_T1.ToString();
+            priceTextB.text = costB_T1.ToString();
+            priceTextC.text = costC_T1.ToString();
+        }
+        else if (tier == 2)
+        {
+            priceTextA.text = costA_T2.ToString();
+            priceTextB.text = costB_T2.ToString();
+            priceTextC.text = costC_T2.ToString();
         }
         else
         {
-
-            Debug.Log("not enoughMoeny");
-
+            priceTextA.text = costA_T3.ToString();
+            priceTextB.text = costB_T3.ToString();
+            priceTextC.text = costC_T3.ToString();
         }
-    }
 
-    public void SpawnTest()
-    {
-
-        Instantiate(Tester, spawnPointTest.position, Quaternion.identity);
 
     }
+
 }

@@ -1,0 +1,1669 @@
+Using pre-set license
+Built from '6000.0/staging' branch; Version is '6000.0.38f1 (82314a941f2d) revision 8532298'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26200) 64bit Professional' Language: 'en' Physical Memory: 32487 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.0.38f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker15
+-projectPath
+A:/SweetAnimalCandy/DGD303-PandomimGames-SweetAnimalCandy
+-logFile
+Logs/AssetImportWorker15.log
+-srvPort
+56575
+-job-worker-count
+15
+-background-job-worker-count
+8
+-gc-helper-count
+1
+Successfully changed project path to: A:/SweetAnimalCandy/DGD303-PandomimGames-SweetAnimalCandy
+A:/SweetAnimalCandy/DGD303-PandomimGames-SweetAnimalCandy
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [63132]  Target information:
+
+Player connection [63132]  * "[IP] 26.208.177.173 [Port] 0 [Flags] 2 [Guid] 904673634 [EditorId] 904673634 [Version] 1048832 [Id] WindowsEditor(7,Burakbel) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [63132]  * "[IP] 192.168.1.114 [Port] 0 [Flags] 2 [Guid] 904673634 [EditorId] 904673634 [Version] 1048832 [Id] WindowsEditor(7,Burakbel) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [63132] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [63132] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 15
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 3.24 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.38f1 (82314a941f2d)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.38f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path A:/SweetAnimalCandy/DGD303-PandomimGames-SweetAnimalCandy/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 4070 Laptop GPU (ID=0x2860)
+    Vendor:   NVIDIA
+    VRAM:     7948 MB
+    Driver:   32.0.15.9159
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.38f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.38f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.38f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56568
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.38f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.38f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Registered in 0.005179 seconds.
+- Loaded All Assemblies, in  0.519 seconds
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 511 ms
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.001 seconds
+Domain Reload Profiling: 1516ms
+	BeginReloadAssembly (204ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (46ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (67ms)
+	LoadAllAssembliesAndSetupDomain (182ms)
+		LoadAssemblies (200ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (178ms)
+			TypeCache.Refresh (177ms)
+				TypeCache.ScanAssembly (162ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (1001ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (946ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (617ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (68ms)
+			ProcessInitializeOnLoadAttributes (169ms)
+			ProcessInitializeOnLoadMethodAttributes (88ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.027 seconds
+Refreshing native plugins compatible for Editor in 1.70 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.291 seconds
+Domain Reload Profiling: 2314ms
+	BeginReloadAssembly (204ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (7ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (32ms)
+	RebuildCommonClasses (43ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (48ms)
+	LoadAllAssembliesAndSetupDomain (711ms)
+		LoadAssemblies (487ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (348ms)
+			TypeCache.Refresh (241ms)
+				TypeCache.ScanAssembly (222ms)
+			BuildScriptInfoCaches (88ms)
+			ResolveRequiredComponents (14ms)
+	FinalizeReload (1291ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1096ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (16ms)
+			SetLoadedEditorAssemblies (8ms)
+			BeforeProcessingInitializeOnLoad (163ms)
+			ProcessInitializeOnLoadAttributes (726ms)
+			ProcessInitializeOnLoadMethodAttributes (176ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 5.75 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 224 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6722 unused Assets / (7.1 MB). Loaded Objects now: 7390.
+Memory consumption went from 200.4 MB to 193.3 MB.
+Total: 30.536400 ms (FindLiveObjects: 0.877000 ms CreateObjectMapping: 1.015500 ms MarkObjects: 22.886600 ms  DeleteObjects: 5.754600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 48251.338228 seconds.
+  path: Packages/com.unity.2d.psdimporter/Editor/Pipeline.asset
+  artifactKey: Guid(7a602206d712e496b8b4f2c9fb6ce07c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.psdimporter/Editor/Pipeline.asset using Guid(7a602206d712e496b8b4f2c9fb6ce07c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'db52d386b5854980f0cf0baee4f11f33') in 0.015293 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.497999 seconds.
+  path: Assets/Prefabs/Enemies/Bear.prefab
+  artifactKey: Guid(d6239da5ab001884685bb557fb19aa59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enemies/Bear.prefab using Guid(d6239da5ab001884685bb557fb19aa59) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b508de68ca07c6932f8bf3472e4de5b8') in 0.550835 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 61
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.993089 seconds.
+  path: Assets/Prefabs/Candy/Projectile.prefab
+  artifactKey: Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/Projectile.prefab using Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'dcd31bf34dc609249612db8b515b6532') in 0.0386627 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.113160 seconds.
+  path: Assets/Prefabs/Candy/Projectile.prefab
+  artifactKey: Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/Projectile.prefab using Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f70fd7ff1c61a4dcb4a9ca821fd971a5') in 0.0096664 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.681194 seconds.
+  path: Assets/Prefabs/Candy/Projectile.prefab
+  artifactKey: Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/Projectile.prefab using Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '965219df3d1268c18d66566419ebeceb') in 0.0086116 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.059 seconds
+Refreshing native plugins compatible for Editor in 2.05 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.412 seconds
+Domain Reload Profiling: 2471ms
+	BeginReloadAssembly (297ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (39ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (78ms)
+	RebuildCommonClasses (44ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (39ms)
+	LoadAllAssembliesAndSetupDomain (662ms)
+		LoadAssemblies (508ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (275ms)
+			TypeCache.Refresh (9ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (246ms)
+			ResolveRequiredComponents (14ms)
+	FinalizeReload (1412ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1096ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (20ms)
+			SetLoadedEditorAssemblies (9ms)
+			BeforeProcessingInitializeOnLoad (173ms)
+			ProcessInitializeOnLoadAttributes (783ms)
+			ProcessInitializeOnLoadMethodAttributes (97ms)
+			AfterProcessingInitializeOnLoad (13ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (24ms)
+Refreshing native plugins compatible for Editor in 3.73 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 41 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6722 unused Assets / (6.8 MB). Loaded Objects now: 7429.
+Memory consumption went from 180.7 MB to 174.0 MB.
+Total: 13.360600 ms (FindLiveObjects: 0.720400 ms CreateObjectMapping: 0.461300 ms MarkObjects: 7.967600 ms  DeleteObjects: 4.209000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 79.195622 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF-URP Lit.shadergraph
+  artifactKey: Guid(a3d800b099a06e0478fb790c5e79057a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-URP Lit.shadergraph using Guid(a3d800b099a06e0478fb790c5e79057a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e48f65d439d4f01f2cadc167baba615f') in 0.4715663 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.594055 seconds.
+  path: Assets/Prefabs/Candy/Projectile.prefab
+  artifactKey: Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/Projectile.prefab using Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '66345a3ad80a0c3db6528c000fcc9bd8') in 0.0256449 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.021126 seconds.
+  path: Assets/Prefabs/Candy/Projectile.prefab
+  artifactKey: Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/Projectile.prefab using Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1e24a5dab42d60a2781745ff144044e3') in 0.0165197 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.447603 seconds.
+  path: Assets/Prefabs/Candy/Projectile.prefab
+  artifactKey: Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/Projectile.prefab using Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fd760f53a6497ce3cb5f7621c4a0565c') in 0.016036 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.220358 seconds.
+  path: Assets/Prefabs/Candy/Projectile.prefab
+  artifactKey: Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/Projectile.prefab using Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1e38b7354e99b00d4e9cc73554e5bef1') in 0.0135018 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.015124 seconds.
+  path: Assets/Prefabs/Candy/Projectile.prefab
+  artifactKey: Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/Projectile.prefab using Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7bb9dd624c357d65948eb45256371a3b') in 0.016617 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.246268 seconds.
+  path: Assets/Prefabs/Candy/Projectile.prefab
+  artifactKey: Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/Projectile.prefab using Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9ecfc50a1a5179e69e132900a3036d11') in 0.0137644 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.214953 seconds.
+  path: Assets/Prefabs/Candy/Projectile.prefab
+  artifactKey: Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/Projectile.prefab using Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cdc310d145f124fefab05cbd3dff6942') in 0.0129361 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.473782 seconds.
+  path: Assets/Prefabs/Candy/Projectile.prefab
+  artifactKey: Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/Projectile.prefab using Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5b11f331fcd3b5a68cbdee129d9d8b98') in 0.0139082 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.852339 seconds.
+  path: Assets/Prefabs/Candy/Projectile.prefab
+  artifactKey: Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/Projectile.prefab using Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '67792cb04d11a094767c98f79d4bc6e8') in 0.0128634 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.527633 seconds.
+  path: Assets/Prefabs/Candy/Projectile.prefab
+  artifactKey: Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/Projectile.prefab using Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'af2850b9a9fdee2cd62a5138ba8e7f27') in 0.0219161 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.115603 seconds.
+  path: Assets/Prefabs/Candy/Projectile.prefab
+  artifactKey: Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/Projectile.prefab using Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6c9af5c39c7edad21e72f8d67d267163') in 0.0210399 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.923418 seconds.
+  path: Assets/Prefabs/Candy/Projectile.prefab
+  artifactKey: Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/Projectile.prefab using Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5d8ca30b37739338cead4812a4155ac5') in 0.0206851 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.524881 seconds.
+  path: Assets/Prefabs/Candy/Projectile.prefab
+  artifactKey: Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/Projectile.prefab using Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7754f5632a3eea849ab3e378b13737fa') in 0.0165147 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.598202 seconds.
+  path: Assets/Prefabs/Candy/Projectile.prefab
+  artifactKey: Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/Projectile.prefab using Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6163085ab23664619ef85f3eb7ed16ed') in 0.0156356 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.321610 seconds.
+  path: Assets/Prefabs/Candy/Projectile.prefab
+  artifactKey: Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/Projectile.prefab using Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f4d463bb62cbadeb4e258fe306e79acc') in 0.0123679 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.668732 seconds.
+  path: Assets/Prefabs/Candy/Projectile.prefab
+  artifactKey: Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/Projectile.prefab using Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5a92f23d8bfd7fda58685add4a466c7a') in 0.0137135 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.278536 seconds.
+  path: Assets/Prefabs/Candy/Projectile.prefab
+  artifactKey: Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/Projectile.prefab using Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3b49d5d8035449be4db95a83626e820c') in 0.013477 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.691913 seconds.
+  path: Assets/Prefabs/Candy/Projectile.prefab
+  artifactKey: Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/Projectile.prefab using Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cb7f55fcc6da2269ea1a28092c71499a') in 0.0131539 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.383099 seconds.
+  path: Assets/Prefabs/Candy/Projectile.prefab
+  artifactKey: Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/Projectile.prefab using Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '721f00729d2aa559bee49ffb0be2b42b') in 0.0132871 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.800239 seconds.
+  path: Assets/Prefabs/Candy/Projectile.prefab
+  artifactKey: Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/Projectile.prefab using Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '51d89d5258359493caa6c4f465336db0') in 0.0270488 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.319559 seconds.
+  path: Assets/Prefabs/Candy/Projectile.prefab
+  artifactKey: Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/Projectile.prefab using Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd7e0b42dbeef9087ba9074210ec8c23d') in 0.0083836 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.139466 seconds.
+  path: Assets/Prefabs/Candy/Projectile.prefab
+  artifactKey: Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/Projectile.prefab using Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cbed93db9ad04be440b2639ebe8ccce2') in 0.0148343 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.323857 seconds.
+  path: Assets/Prefabs/Candy/Projectile.prefab
+  artifactKey: Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/Projectile.prefab using Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e9489e4c3ec45fbaa08c4d337133af95') in 0.0144858 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.265753 seconds.
+  path: Assets/Prefabs/Candy/Projectile.prefab
+  artifactKey: Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/Projectile.prefab using Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cf2659e88cddb26d201a402f5dd402f6') in 0.0144472 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.968549 seconds.
+  path: Assets/Prefabs/Candy/Projectile.prefab
+  artifactKey: Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/Projectile.prefab using Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a340cbb17c60ba6fe91983973d764b7b') in 0.0146439 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.746718 seconds.
+  path: Assets/Prefabs/Candy/Projectile.prefab
+  artifactKey: Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/Projectile.prefab using Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ee210ea36fade28fb714d9a66cf87b75') in 0.0150298 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.360653 seconds.
+  path: Assets/Prefabs/Candy/Projectile.prefab
+  artifactKey: Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/Projectile.prefab using Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '68dddc4777815b7540b0d5c5dd32bdf8') in 0.0181294 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.845102 seconds.
+  path: Assets/Prefabs/Candy/Projectile.prefab
+  artifactKey: Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/Projectile.prefab using Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '83067f5ea1a3addd086e6342fae76f84') in 0.0130171 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.558578 seconds.
+  path: Assets/Prefabs/Candy/Projectile.prefab
+  artifactKey: Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/Projectile.prefab using Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '08e6cf35ac9dd6f4d1bb8a6b8101950e') in 0.0399134 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.168498 seconds.
+  path: Assets/Prefabs/Candy/Projectile.prefab
+  artifactKey: Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/Projectile.prefab using Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a5d8d8862424a5a5f882683023abe197') in 0.0081192 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.390505 seconds.
+  path: Assets/Prefabs/Candy/Projectile.prefab
+  artifactKey: Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/Projectile.prefab using Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2e2e415b93b4cda4e3e2fb8b54896ce7') in 0.013092 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.363345 seconds.
+  path: Assets/Prefabs/Candy/Projectile.prefab
+  artifactKey: Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/Projectile.prefab using Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9048c5f18ebf9ca4b6d4d22d49f62926') in 0.0132642 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.553355 seconds.
+  path: Assets/Prefabs/Candy/Projectile.prefab
+  artifactKey: Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/Projectile.prefab using Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f5f02cb004cf5c9af62b2c8c544e6f85') in 0.0171253 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.439401 seconds.
+  path: Assets/Prefabs/Candy/Projectile.prefab
+  artifactKey: Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/Projectile.prefab using Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2bf5de05669e386783664f0acdeb348e') in 0.0129671 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.855804 seconds.
+  path: Assets/Prefabs/Candy/Projectile.prefab
+  artifactKey: Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/Projectile.prefab using Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9cda6049a0ac23255cf79872b554c56b') in 0.0137705 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.606900 seconds.
+  path: Assets/Prefabs/Candy/Projectile.prefab
+  artifactKey: Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/Projectile.prefab using Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'dfc19a979b2bff24a59081d8a033d3db') in 0.0204026 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.789870 seconds.
+  path: Assets/Prefabs/Candy/Projectile.prefab
+  artifactKey: Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/Projectile.prefab using Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fda7d47448af35029acf0e550959db48') in 0.0056171 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.435141 seconds.
+  path: Assets/Prefabs/Candy/Projectile.prefab
+  artifactKey: Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/Projectile.prefab using Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bd7e2c37450b45ee0fd553410d3ae996') in 0.013921 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.346194 seconds.
+  path: Assets/Prefabs/Candy/Projectile.prefab
+  artifactKey: Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/Projectile.prefab using Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '92782872f3378a3af7d2b36b1d59d16b') in 0.0128846 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.637815 seconds.
+  path: Assets/Prefabs/Candy/Projectile.prefab
+  artifactKey: Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/Projectile.prefab using Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd9a9277720b3171a20beacb1dba70103') in 0.0175517 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.099859 seconds.
+  path: Assets/Prefabs/Candy/Projectile.prefab
+  artifactKey: Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/Projectile.prefab using Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '381ab0c3059d690bfd50804b92262ecf') in 0.0075548 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.009088 seconds.
+  path: Assets/Prefabs/Candy/Projectile.prefab
+  artifactKey: Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/Projectile.prefab using Guid(a0b13d5a07e36fb499af0664a5098db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c99d60c04e4ce3e51a7d3c40bb3bb817') in 0.0091585 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.431181 seconds.
+  path: Assets/Scenes/MainMenu.unity
+  artifactKey: Guid(2f7ce234f2dfc284aaac1df3e2d5b44d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MainMenu.unity using Guid(2f7ce234f2dfc284aaac1df3e2d5b44d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd8497cf9ba688a2b9b64213602dd76c2') in 0.0027631 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.707 seconds
+Refreshing native plugins compatible for Editor in 1.36 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.861 seconds
+Domain Reload Profiling: 1570ms
+	BeginReloadAssembly (210ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (24ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (54ms)
+	RebuildCommonClasses (35ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (26ms)
+	LoadAllAssembliesAndSetupDomain (424ms)
+		LoadAssemblies (332ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (185ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (164ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (862ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (673ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (11ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (112ms)
+			ProcessInitializeOnLoadAttributes (477ms)
+			ProcessInitializeOnLoadMethodAttributes (61ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (15ms)
+Refreshing native plugins compatible for Editor in 1.78 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 42 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6720 unused Assets / (7.1 MB). Loaded Objects now: 7490.
+Memory consumption went from 183.4 MB to 176.3 MB.
+Total: 10.146900 ms (FindLiveObjects: 0.560000 ms CreateObjectMapping: 0.315100 ms MarkObjects: 5.631800 ms  DeleteObjects: 3.638600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.689 seconds
+Refreshing native plugins compatible for Editor in 1.39 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.839 seconds
+Domain Reload Profiling: 1529ms
+	BeginReloadAssembly (177ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (12ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (40ms)
+	RebuildCommonClasses (32ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (26ms)
+	LoadAllAssembliesAndSetupDomain (442ms)
+		LoadAssemblies (332ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (196ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (172ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (839ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (658ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (10ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (98ms)
+			ProcessInitializeOnLoadAttributes (473ms)
+			ProcessInitializeOnLoadMethodAttributes (65ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (16ms)
+Refreshing native plugins compatible for Editor in 2.09 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 41 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6720 unused Assets / (7.1 MB). Loaded Objects now: 7493.
+Memory consumption went from 183.0 MB to 175.9 MB.
+Total: 10.574300 ms (FindLiveObjects: 0.592300 ms CreateObjectMapping: 0.362300 ms MarkObjects: 5.928700 ms  DeleteObjects: 3.689000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.40 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 41 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6709 unused Assets / (5.5 MB). Loaded Objects now: 7493.
+Memory consumption went from 183.1 MB to 177.6 MB.
+Total: 13.811200 ms (FindLiveObjects: 0.654700 ms CreateObjectMapping: 0.539700 ms MarkObjects: 8.744900 ms  DeleteObjects: 3.869600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 338.236405 seconds.
+  path: Assets/Script/MAINMENU.cs
+  artifactKey: Guid(09f530bbeb2a68646bed570cdbb88d47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/MAINMENU.cs using Guid(09f530bbeb2a68646bed570cdbb88d47) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4cd70c4c48d185f6dafad23f6c161f06') in 0.0162932 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.066 seconds
+Refreshing native plugins compatible for Editor in 1.43 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.016 seconds
+Domain Reload Profiling: 2084ms
+	BeginReloadAssembly (256ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (20ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (65ms)
+	RebuildCommonClasses (54ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (38ms)
+	LoadAllAssembliesAndSetupDomain (706ms)
+		LoadAssemblies (498ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (328ms)
+			TypeCache.Refresh (13ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (290ms)
+			ResolveRequiredComponents (19ms)
+	FinalizeReload (1017ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (774ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (11ms)
+			SetLoadedEditorAssemblies (7ms)
+			BeforeProcessingInitializeOnLoad (138ms)
+			ProcessInitializeOnLoadAttributes (540ms)
+			ProcessInitializeOnLoadMethodAttributes (71ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (18ms)
+Refreshing native plugins compatible for Editor in 1.66 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 41 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6720 unused Assets / (8.0 MB). Loaded Objects now: 7496.
+Memory consumption went from 183.0 MB to 175.0 MB.
+Total: 12.207200 ms (FindLiveObjects: 0.494600 ms CreateObjectMapping: 0.302400 ms MarkObjects: 5.548800 ms  DeleteObjects: 5.858000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.687 seconds
+Refreshing native plugins compatible for Editor in 1.40 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.879 seconds
+Domain Reload Profiling: 1568ms
+	BeginReloadAssembly (190ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (13ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (44ms)
+	RebuildCommonClasses (32ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (25ms)
+	LoadAllAssembliesAndSetupDomain (430ms)
+		LoadAssemblies (333ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (190ms)
+			TypeCache.Refresh (10ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (162ms)
+			ResolveRequiredComponents (14ms)
+	FinalizeReload (879ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (695ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (11ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (110ms)
+			ProcessInitializeOnLoadAttributes (506ms)
+			ProcessInitializeOnLoadMethodAttributes (57ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (16ms)
+Refreshing native plugins compatible for Editor in 1.56 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 41 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6720 unused Assets / (7.1 MB). Loaded Objects now: 7499.
+Memory consumption went from 183.0 MB to 175.9 MB.
+Total: 8.445300 ms (FindLiveObjects: 0.504000 ms CreateObjectMapping: 0.303800 ms MarkObjects: 4.728200 ms  DeleteObjects: 2.908000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 101.086759 seconds.
+  path: Assets/Script/MAINMENU.cs
+  artifactKey: Guid(09f530bbeb2a68646bed570cdbb88d47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/MAINMENU.cs using Guid(09f530bbeb2a68646bed570cdbb88d47) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cc2679a5095bf0b3c5ceab2b7630b004') in 0.0079946 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 227.331068 seconds.
+  path: Assets/Pink Ball Activate! (Robobot Armor) - Kirby_ Planet Robobot OST [011].mp3
+  artifactKey: Guid(7990ab11c5807754b97f45fe64f3c04a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pink Ball Activate! (Robobot Armor) - Kirby_ Planet Robobot OST [011].mp3 using Guid(7990ab11c5807754b97f45fe64f3c04a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00a45a4b3ffcfc2858c677ba25f18b24') in 0.0665047 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.679 seconds
+Refreshing native plugins compatible for Editor in 1.47 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.829 seconds
+Domain Reload Profiling: 1509ms
+	BeginReloadAssembly (199ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (12ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (48ms)
+	RebuildCommonClasses (31ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (25ms)
+	LoadAllAssembliesAndSetupDomain (414ms)
+		LoadAssemblies (332ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (182ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (159ms)
+			ResolveRequiredComponents (13ms)
+	FinalizeReload (829ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (659ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (11ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (105ms)
+			ProcessInitializeOnLoadAttributes (477ms)
+			ProcessInitializeOnLoadMethodAttributes (55ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (13ms)
+Refreshing native plugins compatible for Editor in 2.07 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 41 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6720 unused Assets / (6.7 MB). Loaded Objects now: 7504.
+Memory consumption went from 183.0 MB to 176.3 MB.
+Total: 9.805500 ms (FindLiveObjects: 0.542800 ms CreateObjectMapping: 0.359200 ms MarkObjects: 5.527100 ms  DeleteObjects: 3.374500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 49.112401 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(8c9cfa26abfee488c85f1582747f6a02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(8c9cfa26abfee488c85f1582747f6a02) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd6a23a554dc6798c03b67c7cbb3db28a') in 0.0034799 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.668 seconds
+Refreshing native plugins compatible for Editor in 1.29 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.802 seconds
+Domain Reload Profiling: 1471ms
+	BeginReloadAssembly (180ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (13ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (42ms)
+	RebuildCommonClasses (34ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (25ms)
+	LoadAllAssembliesAndSetupDomain (419ms)
+		LoadAssemblies (326ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (181ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (161ms)
+			ResolveRequiredComponents (10ms)
+	FinalizeReload (802ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (631ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (11ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (100ms)
+			ProcessInitializeOnLoadAttributes (458ms)
+			ProcessInitializeOnLoadMethodAttributes (53ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (12ms)
+Refreshing native plugins compatible for Editor in 1.57 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 41 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6720 unused Assets / (6.1 MB). Loaded Objects now: 7507.
+Memory consumption went from 183.0 MB to 176.9 MB.
+Total: 8.753800 ms (FindLiveObjects: 0.522900 ms CreateObjectMapping: 0.312900 ms MarkObjects: 4.884300 ms  DeleteObjects: 3.032200 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.671 seconds
+Refreshing native plugins compatible for Editor in 1.34 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.767 seconds
+Domain Reload Profiling: 1440ms
+	BeginReloadAssembly (187ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (13ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (44ms)
+	RebuildCommonClasses (34ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (26ms)
+	LoadAllAssembliesAndSetupDomain (414ms)
+		LoadAssemblies (324ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (180ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (160ms)
+			ResolveRequiredComponents (10ms)
+	FinalizeReload (768ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (606ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (9ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (97ms)
+			ProcessInitializeOnLoadAttributes (438ms)
+			ProcessInitializeOnLoadMethodAttributes (51ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (14ms)
+Refreshing native plugins compatible for Editor in 1.67 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 41 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6720 unused Assets / (6.8 MB). Loaded Objects now: 7510.
+Memory consumption went from 183.0 MB to 176.2 MB.
+Total: 9.123900 ms (FindLiveObjects: 0.513600 ms CreateObjectMapping: 0.331800 ms MarkObjects: 5.096200 ms  DeleteObjects: 3.180600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 168.472765 seconds.
+  path: Assets/Prefabs/Candy/CANDYT1.prefab
+  artifactKey: Guid(f62b1e74b4b9a3c4fafa0f67dfaca912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/CANDYT1.prefab using Guid(f62b1e74b4b9a3c4fafa0f67dfaca912) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fc9c8ccea8dfbdaefbb3bcb6831ed145') in 0.4582146 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 100
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.434414 seconds.
+  path: Assets/Prefabs/Candy/CANDYT1.prefab
+  artifactKey: Guid(f62b1e74b4b9a3c4fafa0f67dfaca912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/CANDYT1.prefab using Guid(f62b1e74b4b9a3c4fafa0f67dfaca912) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1549a324c7f3c44e3b977eba5e883c8a') in 0.0383092 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 98
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.621711 seconds.
+  path: Assets/Prefabs/Candy/CANDYT1.prefab
+  artifactKey: Guid(f62b1e74b4b9a3c4fafa0f67dfaca912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/CANDYT1.prefab using Guid(f62b1e74b4b9a3c4fafa0f67dfaca912) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '80f56d0abfa484d2b8e592adf2e31cb8') in 0.0726925 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 98
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.518940 seconds.
+  path: Assets/Prefabs/Candy/CANDYT1.prefab
+  artifactKey: Guid(f62b1e74b4b9a3c4fafa0f67dfaca912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/CANDYT1.prefab using Guid(f62b1e74b4b9a3c4fafa0f67dfaca912) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2609ac57bfe5085a9a63850386ccae35') in 0.0460379 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 98
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.539019 seconds.
+  path: Assets/Prefabs/Candy/CANDYT1.prefab
+  artifactKey: Guid(f62b1e74b4b9a3c4fafa0f67dfaca912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/CANDYT1.prefab using Guid(f62b1e74b4b9a3c4fafa0f67dfaca912) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8865806b595834dada8c827e454468e2') in 0.0483904 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 98
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.149072 seconds.
+  path: Assets/Prefabs/Candy/CANDYT1.prefab
+  artifactKey: Guid(f62b1e74b4b9a3c4fafa0f67dfaca912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/CANDYT1.prefab using Guid(f62b1e74b4b9a3c4fafa0f67dfaca912) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '51386050403bf23804d8f45b6fe409e8') in 0.0504865 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 98
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.188125 seconds.
+  path: Assets/Prefabs/Candy/CANDYT1.prefab
+  artifactKey: Guid(f62b1e74b4b9a3c4fafa0f67dfaca912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/CANDYT1.prefab using Guid(f62b1e74b4b9a3c4fafa0f67dfaca912) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3d9275598da75841e4a95e902e4f15d7') in 0.04691 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 98
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.615804 seconds.
+  path: Assets/Prefabs/Candy/CANDYT2.prefab
+  artifactKey: Guid(56f9eaf9e891e5e428ccd44c5d7ba1c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/CANDYT2.prefab using Guid(56f9eaf9e891e5e428ccd44c5d7ba1c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '93cd1eee813ffe2b63e83b1e6657a1cc') in 0.0595376 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 71
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.098003 seconds.
+  path: Assets/Prefabs/Candy/CANDYT2.prefab
+  artifactKey: Guid(56f9eaf9e891e5e428ccd44c5d7ba1c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/CANDYT2.prefab using Guid(56f9eaf9e891e5e428ccd44c5d7ba1c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9e67d8d5b165c50775d72bbca83e0775') in 0.0212306 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 71
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.015655 seconds.
+  path: Assets/Prefabs/Candy/CANDYT3.prefab
+  artifactKey: Guid(d34b40c53e3de724085af6c796b245a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/CANDYT3.prefab using Guid(d34b40c53e3de724085af6c796b245a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '96c500e55afb751f481de53d52211d6e') in 0.0647887 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 73
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.102548 seconds.
+  path: Assets/Prefabs/Candy/CANDYT3.prefab
+  artifactKey: Guid(d34b40c53e3de724085af6c796b245a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/CANDYT3.prefab using Guid(d34b40c53e3de724085af6c796b245a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9e2b8a28b04fbe9cbae05c0ada723da7') in 0.0211675 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 73
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.156364 seconds.
+  path: Assets/Prefabs/Candy/CANDYT3.prefab
+  artifactKey: Guid(d34b40c53e3de724085af6c796b245a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/CANDYT3.prefab using Guid(d34b40c53e3de724085af6c796b245a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3dc071c2ec72406ccdbf5b1e8b420791') in 0.0252132 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 73
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.724417 seconds.
+  path: Assets/Prefabs/Candy/CANDYT1.prefab
+  artifactKey: Guid(f62b1e74b4b9a3c4fafa0f67dfaca912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/CANDYT1.prefab using Guid(f62b1e74b4b9a3c4fafa0f67dfaca912) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3fd7e08178f29b2154f0a52ed738e592') in 0.0390076 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 98
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.931555 seconds.
+  path: Assets/Prefabs/Candy/CANDYT2.prefab
+  artifactKey: Guid(56f9eaf9e891e5e428ccd44c5d7ba1c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/CANDYT2.prefab using Guid(56f9eaf9e891e5e428ccd44c5d7ba1c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4482f1e61fd4320139005a7ea517b232') in 0.0282426 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 71
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.858497 seconds.
+  path: Assets/Prefabs/Candy/CANDYT3.prefab
+  artifactKey: Guid(d34b40c53e3de724085af6c796b245a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/CANDYT3.prefab using Guid(d34b40c53e3de724085af6c796b245a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a20c76c979728532761be5b8f6dc02a7') in 0.0234239 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 73
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.837599 seconds.
+  path: Assets/Prefabs/Candy/CANDYT2.prefab
+  artifactKey: Guid(56f9eaf9e891e5e428ccd44c5d7ba1c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/CANDYT2.prefab using Guid(56f9eaf9e891e5e428ccd44c5d7ba1c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '32e64187bd36367c6183f4ae0a2d558b') in 0.023222 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 71
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.956184 seconds.
+  path: Assets/Prefabs/Candy/T1ICECREAM.prefab
+  artifactKey: Guid(3f2e04494ca8c3843a35e4e34261db30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/T1ICECREAM.prefab using Guid(3f2e04494ca8c3843a35e4e34261db30) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bf7904d0d975cb69fb532a2a01071600') in 0.0226557 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 65
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.731015 seconds.
+  path: Assets/Prefabs/Candy/T1ICECREAM.prefab
+  artifactKey: Guid(3f2e04494ca8c3843a35e4e34261db30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/T1ICECREAM.prefab using Guid(3f2e04494ca8c3843a35e4e34261db30) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5c5a314a61759e0924361dc189187e95') in 0.0185611 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 65
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.521868 seconds.
+  path: Assets/Prefabs/Candy/T1ICECREAM.prefab
+  artifactKey: Guid(3f2e04494ca8c3843a35e4e34261db30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/T1ICECREAM.prefab using Guid(3f2e04494ca8c3843a35e4e34261db30) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b11296971a466220fac44cf5d6b9bb44') in 0.0207723 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 65
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.332220 seconds.
+  path: Assets/Prefabs/Candy/T1ICECREAM.prefab
+  artifactKey: Guid(3f2e04494ca8c3843a35e4e34261db30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/T1ICECREAM.prefab using Guid(3f2e04494ca8c3843a35e4e34261db30) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5defb65a5e793f9dddcab0d38fdc769c') in 0.0195318 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 65
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.718103 seconds.
+  path: Assets/Prefabs/Candy/T1ICECREAM.prefab
+  artifactKey: Guid(3f2e04494ca8c3843a35e4e34261db30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/T1ICECREAM.prefab using Guid(3f2e04494ca8c3843a35e4e34261db30) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f91526d324b54115b2c8623b2b07458f') in 0.0208404 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 65
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.245029 seconds.
+  path: Assets/Prefabs/Candy/T1ICECREAM.prefab
+  artifactKey: Guid(3f2e04494ca8c3843a35e4e34261db30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/T1ICECREAM.prefab using Guid(3f2e04494ca8c3843a35e4e34261db30) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'dd9ae6cabb849029c89fc63a4ce6302c') in 0.0200235 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 65
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.087788 seconds.
+  path: Assets/Prefabs/Candy/T1TANK 2.prefab
+  artifactKey: Guid(5d72874c07a0b414cb68610b889de554) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/T1TANK 2.prefab using Guid(5d72874c07a0b414cb68610b889de554) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a5fc8aea839b5640f6dbfde5d71c0046') in 0.0300448 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 59
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.132641 seconds.
+  path: Assets/Prefabs/Candy/T1TANK 2.prefab
+  artifactKey: Guid(5d72874c07a0b414cb68610b889de554) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/T1TANK 2.prefab using Guid(5d72874c07a0b414cb68610b889de554) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a5c97fd3d352bc1e1a0e27f72ee37f38') in 0.0159266 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 59
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.919134 seconds.
+  path: Assets/Prefabs/Candy/T1TANK 2.prefab
+  artifactKey: Guid(5d72874c07a0b414cb68610b889de554) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/T1TANK 2.prefab using Guid(5d72874c07a0b414cb68610b889de554) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '88930cbeb18fc3c73d252d08fe32d01b') in 0.017881 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 59
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.090204 seconds.
+  path: Assets/Prefabs/Candy/T1TANK 1.prefab
+  artifactKey: Guid(50042b3d77404a34287dd681a4ba163e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/T1TANK 1.prefab using Guid(50042b3d77404a34287dd681a4ba163e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '425787f2b4785cabeed2117966ec1dd0') in 0.0167168 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 59
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.715417 seconds.
+  path: Assets/Prefabs/Candy/T1TANK 3.prefab
+  artifactKey: Guid(a48097414960fe24f89cde9ee967b7dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/T1TANK 3.prefab using Guid(a48097414960fe24f89cde9ee967b7dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '515f45214b1615287191a05cf75b60b1') in 0.0166503 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 59
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.528269 seconds.
+  path: Assets/Prefabs/Candy/T1TANK 1.prefab
+  artifactKey: Guid(50042b3d77404a34287dd681a4ba163e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/T1TANK 1.prefab using Guid(50042b3d77404a34287dd681a4ba163e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a0c3b887ed8be561bcb8feaa6e0e2bd7') in 0.0157442 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 59
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.956784 seconds.
+  path: Assets/Prefabs/Candy/T1TANK 3.prefab
+  artifactKey: Guid(a48097414960fe24f89cde9ee967b7dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/T1TANK 3.prefab using Guid(a48097414960fe24f89cde9ee967b7dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c10bd521786cff3a99e20c92eb2c7305') in 0.0153555 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 59
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.458811 seconds.
+  path: Assets/Prefabs/Candy/T1ICECREAM 2.prefab
+  artifactKey: Guid(9d2ff6748f8bbb04f8e3f8445997b084) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/T1ICECREAM 2.prefab using Guid(9d2ff6748f8bbb04f8e3f8445997b084) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bbb04f1186bbf99aa9bee325a372b880') in 0.0440654 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 69
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.152648 seconds.
+  path: Assets/Prefabs/Candy/T1ICECREAM.prefab
+  artifactKey: Guid(3f2e04494ca8c3843a35e4e34261db30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/T1ICECREAM.prefab using Guid(3f2e04494ca8c3843a35e4e34261db30) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7dcec6c4eca0a4e2e2e50e0421380d46') in 0.0222068 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 64
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.618123 seconds.
+  path: Assets/Prefabs/Candy/CANDYT3.prefab
+  artifactKey: Guid(d34b40c53e3de724085af6c796b245a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/CANDYT3.prefab using Guid(d34b40c53e3de724085af6c796b245a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b76fb879aac7c13d09cdcf54e0e7deb5') in 0.024751 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 73
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.759360 seconds.
+  path: Assets/Prefabs/Candy/T1ICECREAM.prefab
+  artifactKey: Guid(3f2e04494ca8c3843a35e4e34261db30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/T1ICECREAM.prefab using Guid(3f2e04494ca8c3843a35e4e34261db30) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f253d413a1be87e7e43eae80f4bf9013') in 0.0200252 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 64
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.975826 seconds.
+  path: Assets/Prefabs/Candy/T1ICECREAM 1.prefab
+  artifactKey: Guid(1dd21c7d76665ea4d9de037f789699af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/T1ICECREAM 1.prefab using Guid(1dd21c7d76665ea4d9de037f789699af) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f3f74aa228c45b34d1a8b025eaaed674') in 0.0490867 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 69
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.520780 seconds.
+  path: Assets/Prefabs/Candy/T1ICECREAM 2.prefab
+  artifactKey: Guid(9d2ff6748f8bbb04f8e3f8445997b084) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/T1ICECREAM 2.prefab using Guid(9d2ff6748f8bbb04f8e3f8445997b084) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5463e91a59ebfbf42b1d0042bf2dadfc') in 0.0232372 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 69
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.823555 seconds.
+  path: Assets/Prefabs/Candy/T1ICECREAM 2.prefab
+  artifactKey: Guid(9d2ff6748f8bbb04f8e3f8445997b084) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/T1ICECREAM 2.prefab using Guid(9d2ff6748f8bbb04f8e3f8445997b084) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '802d80ace537ca2c16c1aaf6e8aa3944') in 0.0209969 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 69
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.920992 seconds.
+  path: Assets/Prefabs/Candy/T1ICECREAM 1.prefab
+  artifactKey: Guid(1dd21c7d76665ea4d9de037f789699af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/T1ICECREAM 1.prefab using Guid(1dd21c7d76665ea4d9de037f789699af) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd9bf3beee221db24528a7890a475c8af') in 0.024562 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 69
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.837910 seconds.
+  path: Assets/Prefabs/Candy/CANDYT3.prefab
+  artifactKey: Guid(d34b40c53e3de724085af6c796b245a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/CANDYT3.prefab using Guid(d34b40c53e3de724085af6c796b245a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '409c942c5df5e097587a086b7ca45bdd') in 0.0233018 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 73
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.057509 seconds.
+  path: Assets/Prefabs/Candy/T1TANK 2.prefab
+  artifactKey: Guid(5d72874c07a0b414cb68610b889de554) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/T1TANK 2.prefab using Guid(5d72874c07a0b414cb68610b889de554) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '123d170262eb530935253def97c3edae') in 0.015952 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 59
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.440903 seconds.
+  path: Assets/Prefabs/Candy/T1TANK 1.prefab
+  artifactKey: Guid(50042b3d77404a34287dd681a4ba163e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/T1TANK 1.prefab using Guid(50042b3d77404a34287dd681a4ba163e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2ae66fc425de68ef125520c2b9aebdc9') in 0.015723 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 59
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.146256 seconds.
+  path: Assets/Prefabs/Candy/T1TANK 3.prefab
+  artifactKey: Guid(a48097414960fe24f89cde9ee967b7dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/T1TANK 3.prefab using Guid(a48097414960fe24f89cde9ee967b7dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '562268d88010f126f043423b1c382d61') in 0.0156962 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 59
+
+========================================================================
+Received Import Request.
+  Time since last request: 96.481606 seconds.
+  path: Assets/Prefabs/Enemies/Bear.prefab
+  artifactKey: Guid(d6239da5ab001884685bb557fb19aa59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enemies/Bear.prefab using Guid(d6239da5ab001884685bb557fb19aa59) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c27e1007703dfc587e790091f4238fea') in 0.0161938 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 59
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.138962 seconds.
+  path: Assets/Prefabs/Candy/CANDYT2.prefab
+  artifactKey: Guid(56f9eaf9e891e5e428ccd44c5d7ba1c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/CANDYT2.prefab using Guid(56f9eaf9e891e5e428ccd44c5d7ba1c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2491aef016f1d8b35b9ee46c86745889') in 0.0226826 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 71
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.000047 seconds.
+  path: Assets/Prefabs/Candy/CANDYT3.prefab
+  artifactKey: Guid(d34b40c53e3de724085af6c796b245a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/CANDYT3.prefab using Guid(d34b40c53e3de724085af6c796b245a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3a1425a16b45a78808611ab2a8362e90') in 0.0247006 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 73
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.704962 seconds.
+  path: Assets/Prefabs/Candy/T1ICECREAM 2.prefab
+  artifactKey: Guid(9d2ff6748f8bbb04f8e3f8445997b084) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/T1ICECREAM 2.prefab using Guid(9d2ff6748f8bbb04f8e3f8445997b084) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e7cc4ff267c56e8bf9f63f645cf0aa49') in 0.0189967 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 69
+
+========================================================================
+Received Import Request.
+  Time since last request: 406.608881 seconds.
+  path: Assets/Prefabs/Candy/T1ICECREAM 1.prefab
+  artifactKey: Guid(1dd21c7d76665ea4d9de037f789699af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/T1ICECREAM 1.prefab using Guid(1dd21c7d76665ea4d9de037f789699af) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0027ed583c558846c68970a8224a54ae') in 0.0284229 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 69
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.907083 seconds.
+  path: Assets/Prefabs/Candy/T1ICECREAM.prefab
+  artifactKey: Guid(3f2e04494ca8c3843a35e4e34261db30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/T1ICECREAM.prefab using Guid(3f2e04494ca8c3843a35e4e34261db30) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '73e58e494b2f74d49b557973dbca6e6c') in 0.0216051 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 64
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.449657 seconds.
+  path: Assets/Prefabs/Candy/T1ICECREAM.prefab
+  artifactKey: Guid(3f2e04494ca8c3843a35e4e34261db30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/T1ICECREAM.prefab using Guid(3f2e04494ca8c3843a35e4e34261db30) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e9db22e5c632e0eefb6b2852d0569590') in 0.0187512 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 64
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.554336 seconds.
+  path: Assets/Prefabs/Candy/T1ICECREAM 1.prefab
+  artifactKey: Guid(1dd21c7d76665ea4d9de037f789699af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/T1ICECREAM 1.prefab using Guid(1dd21c7d76665ea4d9de037f789699af) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1edca9c448373c94696895c645a5bd47') in 0.0208821 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 69
+
+========================================================================
+Received Import Request.
+  Time since last request: 53.656502 seconds.
+  path: Assets/Prefabs/Enemies/Squirell.prefab
+  artifactKey: Guid(e247abc8acc526f419f42299dac5ca9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enemies/Squirell.prefab using Guid(e247abc8acc526f419f42299dac5ca9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a85cb45eca10c27466e5bfb4952f011f') in 0.0169198 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 44
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.815108 seconds.
+  path: Assets/Prefabs/Enemies/Dog.prefab
+  artifactKey: Guid(8fd5a0d903726094ea09fdc2e15bcb3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enemies/Dog.prefab using Guid(8fd5a0d903726094ea09fdc2e15bcb3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '38b8a1e67406c67e17a9f073fd268c24') in 0.0175952 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 44
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.696563 seconds.
+  path: Assets/Prefabs/Enemies/Squirell.prefab
+  artifactKey: Guid(e247abc8acc526f419f42299dac5ca9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enemies/Squirell.prefab using Guid(e247abc8acc526f419f42299dac5ca9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '43cdef1ad31fd53e8ff0c5d56cbaa806') in 0.0152803 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 44
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.993601 seconds.
+  path: Assets/Prefabs/Enemies/Dog.prefab
+  artifactKey: Guid(8fd5a0d903726094ea09fdc2e15bcb3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enemies/Dog.prefab using Guid(8fd5a0d903726094ea09fdc2e15bcb3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '69c1ee38919d15fbd265683729e429ec') in 0.0181068 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 44
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.825 seconds
+Refreshing native plugins compatible for Editor in 1.36 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.796 seconds
+Domain Reload Profiling: 1620ms
+	BeginReloadAssembly (240ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (28ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (62ms)
+	RebuildCommonClasses (45ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (36ms)
+	LoadAllAssembliesAndSetupDomain (489ms)
+		LoadAssemblies (406ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (191ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (170ms)
+			ResolveRequiredComponents (10ms)
+	FinalizeReload (796ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (614ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (10ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (100ms)
+			ProcessInitializeOnLoadAttributes (440ms)
+			ProcessInitializeOnLoadMethodAttributes (52ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (16ms)
+Refreshing native plugins compatible for Editor in 2.00 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 41 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6722 unused Assets / (7.2 MB). Loaded Objects now: 7536.
+Memory consumption went from 184.9 MB to 177.7 MB.
+Total: 9.190000 ms (FindLiveObjects: 0.517400 ms CreateObjectMapping: 0.324400 ms MarkObjects: 5.075800 ms  DeleteObjects: 3.271100 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.64 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 41 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6709 unused Assets / (5.4 MB). Loaded Objects now: 7536.
+Memory consumption went from 184.8 MB to 179.5 MB.
+Total: 10.139800 ms (FindLiveObjects: 0.949200 ms CreateObjectMapping: 0.524400 ms MarkObjects: 6.250600 ms  DeleteObjects: 2.414200 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.849 seconds
+Refreshing native plugins compatible for Editor in 1.66 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.795 seconds
+Domain Reload Profiling: 1642ms
+	BeginReloadAssembly (229ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (13ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (63ms)
+	RebuildCommonClasses (48ms)
+	RebuildNativeTypeToScriptingClass (20ms)
+	initialDomainReloadingComplete (38ms)
+	LoadAllAssembliesAndSetupDomain (512ms)
+		LoadAssemblies (421ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (198ms)
+			TypeCache.Refresh (14ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (164ms)
+			ResolveRequiredComponents (15ms)
+	FinalizeReload (796ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (610ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (11ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (103ms)
+			ProcessInitializeOnLoadAttributes (435ms)
+			ProcessInitializeOnLoadMethodAttributes (50ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (12ms)
+Refreshing native plugins compatible for Editor in 1.53 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 41 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6720 unused Assets / (7.1 MB). Loaded Objects now: 7539.
+Memory consumption went from 184.7 MB to 177.6 MB.
+Total: 8.299100 ms (FindLiveObjects: 0.471900 ms CreateObjectMapping: 0.295200 ms MarkObjects: 4.580800 ms  DeleteObjects: 2.949800 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 447.400056 seconds.
+  path: Assets/Prefabs/Enemies/Dog.prefab
+  artifactKey: Guid(8fd5a0d903726094ea09fdc2e15bcb3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enemies/Dog.prefab using Guid(8fd5a0d903726094ea09fdc2e15bcb3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '93de6886b0f07256a0fdce78ab23f634') in 0.4288093 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 60
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.692 seconds
+Refreshing native plugins compatible for Editor in 1.46 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.818 seconds
+Domain Reload Profiling: 1511ms
+	BeginReloadAssembly (217ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (24ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (57ms)
+	RebuildCommonClasses (37ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (25ms)
+	LoadAllAssembliesAndSetupDomain (402ms)
+		LoadAssemblies (321ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (175ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (155ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (818ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (644ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (10ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (103ms)
+			ProcessInitializeOnLoadAttributes (468ms)
+			ProcessInitializeOnLoadMethodAttributes (53ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (16ms)
+Refreshing native plugins compatible for Editor in 1.79 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 41 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6722 unused Assets / (7.2 MB). Loaded Objects now: 7564.
+Memory consumption went from 186.4 MB to 179.2 MB.
+Total: 9.929200 ms (FindLiveObjects: 0.558400 ms CreateObjectMapping: 0.353400 ms MarkObjects: 5.570200 ms  DeleteObjects: 3.445800 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 73.858830 seconds.
+  path: Assets/Scenes/MainMenu.unity
+  artifactKey: Guid(2f7ce234f2dfc284aaac1df3e2d5b44d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MainMenu.unity using Guid(2f7ce234f2dfc284aaac1df3e2d5b44d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c35890d4bafc0de16df2b3e1a4674828') in 0.0042698 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.330131 seconds.
+  path: Assets/Scenes/Game.unity
+  artifactKey: Guid(8c9cfa26abfee488c85f1582747f6a02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Game.unity using Guid(8c9cfa26abfee488c85f1582747f6a02) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0283aa3bbf5c28ab4302aa729aba9fca') in 0.0004625 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 923.572912 seconds.
+  path: Assets/Scenes/Adobe Express - file (5).png
+  artifactKey: Guid(10865fab7039ba242a5001055ce1b445) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Adobe Express - file (5).png using Guid(10865fab7039ba242a5001055ce1b445) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f014c36e7e4ff66fa060d539b45b9e67') in 0.0918315 seconds
+Number of updated asset objects reloaded before import = 2Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 334.254156 seconds.
+  path: Assets/UniversalRenderPipelineGlobalSettings.asset
+  artifactKey: Guid(93b439a37f63240aca3dd4e01d978a9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UniversalRenderPipelineGlobalSettings.asset using Guid(93b439a37f63240aca3dd4e01d978a9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a0a9b16081ad4e7ca38032d895679879') in 0.0014072 seconds
+Number of updated asset objects reloaded before import = 1Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.348050 seconds.
+  path: Assets/Prefabs/Enemies/Squirell.prefab
+  artifactKey: Guid(e247abc8acc526f419f42299dac5ca9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enemies/Squirell.prefab using Guid(e247abc8acc526f419f42299dac5ca9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a55b35de60eb03ad2d8186f9763729fa') in 0.3907132 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 67
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.148988 seconds.
+  path: Assets/Prefabs/Candy/T1ICECREAM 2.prefab
+  artifactKey: Guid(9d2ff6748f8bbb04f8e3f8445997b084) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/T1ICECREAM 2.prefab using Guid(9d2ff6748f8bbb04f8e3f8445997b084) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '696c83f11648176a8df71bbb6389b01a') in 0.0504165 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 68
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.170283 seconds.
+  path: Assets/Prefabs/Candy/T1ICECREAM 1.prefab
+  artifactKey: Guid(1dd21c7d76665ea4d9de037f789699af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/T1ICECREAM 1.prefab using Guid(1dd21c7d76665ea4d9de037f789699af) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd9a1295076f5f2951b718a6141e878e9') in 0.0422698 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 68
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.953418 seconds.
+  path: Assets/Prefabs/Candy/T1ICECREAM.prefab
+  artifactKey: Guid(3f2e04494ca8c3843a35e4e34261db30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Candy/T1ICECREAM.prefab using Guid(3f2e04494ca8c3843a35e4e34261db30) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'da2ba0b11ef023fd0f0436768d64c2ba') in 0.0428643 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 63
+
